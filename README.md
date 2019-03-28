@@ -12,7 +12,7 @@ $ npm install react-native-emoji-rain
 
 react-native >= 0.59 (react hooks APIs)
 
-## Useage
+## Usage
 
 ``` jsx
 import { EmojiRain } from 'react-native-emoji-rain'
