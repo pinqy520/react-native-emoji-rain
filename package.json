@@ -1,0 +1,9 @@
+{
+  "name": "react-native-emoji-rain",
+  "version": "0.0.1",
+  "description": "react native emoji rain use react hooks",
+  "main": "index.js",
+  "repository": "https://github.com/pinqy520/react-native-emoji-rain.git",
+  "author": "pinqy520 <pinqy520@gmail.com>",
+  "license": "MIT"
+}
