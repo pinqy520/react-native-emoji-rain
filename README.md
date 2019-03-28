@@ -15,7 +15,9 @@ react-native >= 0.59 (react hooks APIs)
 ## Useage
 
 ``` jsx
-    <EmojiRain emoji="😘" count={25}/>
+import { EmojiRain } from 'react-native-emoji-rain'
+
+<EmojiRain emoji="😘" count={25}/>
 ```
 
 ---
@@ -29,5 +31,7 @@ react-native >= 0.59 (需react hooks API支持)
 ## 用法
 
 ``` jsx
-    <EmojiRain emoji="😘" count={25}/>
+import { EmojiRain } from 'react-native-emoji-rain'
+
+<EmojiRain emoji="😘" count={25}/>
 ```
