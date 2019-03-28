@@ -4,6 +4,10 @@
 
 ![Screen Shot](./screenshot.gif)
 
+```
+$ npm install react-native-emoji-rain
+```
+
 ## Requirement
 
 react-native >= 0.59 (react hooks APIs)
